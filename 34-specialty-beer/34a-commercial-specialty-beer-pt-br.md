@@ -6,7 +6,7 @@ Baseado na cerveja declarada.
 
 ### Aroma / Aparência / Sabor / Sensação na Boca
 
-Baseado na cerveja declarada.
+Baseada na cerveja declarada..
 
 ### Comentários
 
