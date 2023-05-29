@@ -2,11 +2,11 @@
 
 ### Impressão geral
 
-Baseada nos estilos base declarados, métodos e ingredientes. Assim como todos as Cervejas Tipo Especializadas, o resultado da combinação dos estilos de cerveja precisa ser harmonioso e equilibrado e ser agradável de beber.
+De acordo com os estilos base, métodos e ingredientes declarados. Assim como todos as Cervejas Tipo Especializadas, o resultado da combinação dos estilos precisa ser harmonioso, equilibrado e agradável de beber.
 
 ### Aroma / Aparência / Sabor / Sensação na Boca
 
-Baseado nos estilos base declarados.
+De acordo com os estilos base declarados.
 
 ### Comentários
 
@@ -18,7 +18,7 @@ O participante deve especificar o Estilo ou Estilos Base que estão sendo usados
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar dependendo da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar, a depender da cerveja declarada.
 
 ### Exemplos Comerciais
 
