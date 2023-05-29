@@ -1,5 +1,7 @@
 ## 34A. Commercial Specialty Beer
 
+This style is intended for reproductions or interpretations of specific commercial beers that don’t fit within defined styles. Beers entered here do not need to be exact copies. The beer should be judged as to how well it fits the broader style represented by the example beer, not how well it is an exact copy of a specific commercial product. If a Commercial Specialty Beer fits another defined style, do not enter it here.
+
 ### Overall Impression
 
 Based on declared beer.
