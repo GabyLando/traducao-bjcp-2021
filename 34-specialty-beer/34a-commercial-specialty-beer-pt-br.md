@@ -14,7 +14,7 @@ Destinada a ser uma subcategoria que engloba cervejas específicas, baseadas em 
 
 ### Instruções para inscrição
 
-O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou uma lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja podem não ter base para comparação.
+O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou a lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja podem não ter base para comparação.
 
 ### Estatísticas
 
