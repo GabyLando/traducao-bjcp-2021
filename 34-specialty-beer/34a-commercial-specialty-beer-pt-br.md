@@ -10,11 +10,11 @@ De acordo com a cerveja declarada.
 
 ### Comentários
 
-Destinada a ser uma categoria que engloba cervejas específicas, baseadas em exemplares comerciais únicos, e que não se encaixam nos demais estilos existentes. Versões anteriores do Guia de Estilos incluíam um estilo chamado Belgian Specialty Ale; este estilo se enquadra no mesmo propósito, permitindo cervejas não-belgas e com objetivo similar.
+Destinada a ser uma subcategoria que engloba cervejas específicas, baseadas em exemplares comerciais únicos, e que não se encaixam nos demais estilos existentes. Versões anteriores do Guia de Estilos incluíam o chamado Belgian Specialty Ale; este estilo se enquadra no mesmo propósito, permitindo cervejas não-belgas e com objetivo similar.
 
 ### Instruções para inscrição
 
-O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou uma lista de ingredientes usados para fazer a cerveja. Sem essas informações, os juízes que não estão familiarizados com a cerveja podem não ter base para comparação.
+O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou uma lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja podem não ter base para comparação.
 
 ### Estatísticas
 
