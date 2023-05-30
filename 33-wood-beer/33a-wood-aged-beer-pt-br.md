@@ -16,7 +16,7 @@ Varia de acordo com o estilo base. Um aroma amadeirado, de baixo a moderado, ger
 
 ### Sabor
 
-Varia de acordo com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira nova pode adicionar uma impressão de madeira crua e recém cortada. A madeira tostada ou carbonizada pode adicionar baunilha, caramelo, butterscotch, pão tostado, nozes tostadas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de queima usada. Os sabores derivados da madeira devem ser equilibrados, sustentados e perceptíveis, sem serem excessivos em relação ao estilo base da cerveja.
+Varia de acordo com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um perfil característico da variedade utilizada. A madeira nova pode adicionar uma impressão de madeira crua e recém cortada. A madeira tostada ou carbonizada pode adicionar baunilha, caramelo, butterscotch, pão tostado, nozes tostadas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de queima usada. Os sabores derivados da madeira devem ser equilibrados, sustentados e perceptíveis, sem serem excessivos em relação ao estilo base da cerveja.
 
 ### Sensação na Boca
 
