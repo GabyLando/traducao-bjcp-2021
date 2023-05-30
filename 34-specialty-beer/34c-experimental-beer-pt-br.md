@@ -1,5 +1,7 @@
 ## 34C. Experimental Beer
 
+Esta é, explicitamente, uma subcategoria abrangente, para qualquer cerveja que não se encaixe na descrição de nenhum *Estilo Existente*. Aqui, nenhuma cerveja está “fora de estilo”, a menos que possa ser incluída em outro. Este é o último recurso para qualquer cerveja inscrita em uma competição. Com a ampla definição anterior de estilos, este raramente deve ser usado.
+
 ### Impressão geral
 
 Varia, mas deve ser uma experiência única.
