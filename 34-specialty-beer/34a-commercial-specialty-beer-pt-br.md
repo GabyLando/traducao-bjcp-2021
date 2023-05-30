@@ -1,24 +1,26 @@
 ## 34A. Commercial Specialty Beer
 
+Este estilo se destina a reproduções ou interpretações de cervejas comerciais específicas e que não se enquadram em outros estilos definidos. As cervejas nele inscritas não precisam ser cópias exatas. A cerveja deve ser julgada de acordo com o quão bem ela se encaixa no estilo mais amplo, representado pela cerveja exemplo, e não com o quão uma cópia exata de um produto comercial específico ela é. Se uma Commercial Specialty Beer se encaixa em outro estilo definido, não a inscreva aqui.
+
 ### Impressão Geral
 
-Baseado na cerveja declarada.
+De acordo com a cerveja declarada.
 
 ### Aroma / Aparência / Sabor / Sensação na Boca
 
-Baseado na cerveja declarada.
+De acordo com a cerveja declarada.
 
 ### Comentários
 
-Destinada a ser um local "pega-tudo" para cervejas específicas que são baseadas em exemplares comerciais únicos e que não se encaixam nos estilos existentes. Versões anteriores do Guia de estilos incluíam um estilo chamado Belgian Specialty Ale; esse estilo se enquadra no mesmo propósito, permitindo cervejas não belgas com objetivo similar.
+Destinada a ser uma subcategoria que engloba cervejas específicas, baseadas em exemplares comerciais únicos, e que não se encaixam nos demais estilos existentes. Versões anteriores do Guia de Estilos incluíam o chamado Belgian Specialty Ale; este estilo se enquadra no mesmo propósito, permitindo cervejas não-belgas e com objetivo similar.
 
 ### Instruções para inscrição
 
-O participante deve especificar o nome da cerveja comercial, especificações (estatísticas) para a cerveja e ou uma breve descrição sensorial ou uma lista de ingredientes usados para fazer a cerveja. Sem essas informações os juízes que não estão familiarizados com a cerveja não vão ter base para comparação.
+O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou a lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja comercial podem não ter base para comparação.
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar dependendo da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar, a depender da cerveja declarada.
 
 ### Exemplos Comerciais
 

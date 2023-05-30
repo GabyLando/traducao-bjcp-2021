@@ -1,5 +1,7 @@
 ## 34C. Experimental Beer
 
+This is explicitly a catch-all category for any beer that does not fit into an Existing Style description. No beer is ever “out of style” in this style, unless it can be entered in another beer style first. This is the last resort for any beer entered into a competition. With the broad definition for previous styles, this style should be rarely used.
+
 ### Overall Impression
 
 Varies, but should be a unique experience.
