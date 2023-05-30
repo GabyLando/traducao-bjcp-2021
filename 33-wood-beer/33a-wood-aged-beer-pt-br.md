@@ -12,7 +12,7 @@ Varia de acordo com o estilo base. Frequentemente uma cerveja mais escura do que
 
 ### Aroma
 
-Varia de acordo com o estilo base. Um aroma amadeirado, de baixo a moderado, geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode, ocasionalmente, transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira for tostada ou carbonizada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau.
+Varia de acordo com o estilo base. Um aroma amadeirado, de baixo a moderado, geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode, ocasionalmente, transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira for tostada ou carbonizada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, tosta ou cacau.
 
 ### Sabor
 
