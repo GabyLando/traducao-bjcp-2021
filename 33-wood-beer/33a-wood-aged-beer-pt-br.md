@@ -4,7 +4,7 @@ Este estilo é destinado às cervejas envelhecidas em madeira sem a adição do 
 
 ### Impressão Geral
 
-Um aprimoramento agradável do estilo base da cerveja com as características do envelhecimento por contato com a madeira. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
+Um aprimoramento agradável do estilo base da cerveja, com as características do envelhecimento por contato com a madeira. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
 
 ### Aparência
 
