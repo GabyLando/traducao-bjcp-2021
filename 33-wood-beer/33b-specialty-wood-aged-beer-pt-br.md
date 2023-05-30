@@ -4,11 +4,11 @@ Este estilo é destinado às cervejas envelhecidas em madeira com a adição do 
 
 ### Impressão Geral
 
-Um aprimoramento do estilo base da cerveja, com as características provenientes do envelhecimento em contato com a madeira, incluindo as que estiveram previamente em contato com produtos alcoólicos. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
+Um aprimoramento do estilo base da cerveja, com as características provenientes do envelhecimento em contato com a madeira, incluindo as que estiveram previamente em contato com bebidas alcoólicas. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
 
 ### Aparência
 
-Varia de acordo com o estilo base. Frequentemente uma cerveja mais escura do que o estilo base inalterado, particularmente se forem usados barris carbonizados. Cervejas envelhecidas em barris de vinho ou outros produtos com cores distintas também podem conferir cor à cerveja finalizada.
+Varia de acordo com o estilo base. Frequentemente uma cerveja mais escura do que o estilo base inalterado, particularmente se forem usados barris carbonizados. Cervejas envelhecidas em barris de vinho ou outras bebidas com cores distintas também podem conferir cor à cerveja finalizada.
 
 ### Aroma
 
@@ -20,7 +20,7 @@ Varia de acordo com o estilo base. A madeira geralmente contribui com um sabor a
 
 ### Sensação de Boca
 
-Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura no final; alguma adstringência dos taninos da madeira é permitida. Geralmente apresenta aquecimento alcoólico adicional, mas que não deve ser quente ou áspero. As características azedas ou ácidas devem ser baixas ou inexistentes, e nunca o foco.
+Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura no final; alguma adstringência dos taninos da madeira é permitida. Geralmente apresenta aquecimento alcoólico adicional, mas que não deve ser quente ou áspero. As características azedas ou ácidas devem ser baixas ou inexistentes.
 
 ### Comentários
 
