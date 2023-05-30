@@ -20,7 +20,7 @@ Varia de acordo com o estilo base. A madeira geralmente contribui com um sabor a
 
 ### Sensação na Boca
 
-Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura no final; alguma adstringência dos taninos da madeira é permitida. As características azedas ou ácidas devem ser baixas ou nulas, e nunca o foco.
+Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura no final; alguma adstringência dos taninos da madeira é permitida. As características azedas ou ácidas devem ser baixas ou inexistentes.
 
 ### Comentários
 
