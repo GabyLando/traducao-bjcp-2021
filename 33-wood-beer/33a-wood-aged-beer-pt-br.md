@@ -24,7 +24,7 @@ Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percep
 
 ### Comentários
 
-Grande parte do caráter depende do tipo de madeira usada e de como ela complementa e aprimora o estilo base. O caráter de envelhecimento é permitido, mas oxidação excessiva ou acidez é uma falha. Álcool perceptível não é uma falha em estilos base mais fortes. Esta categoria não deve ser usada para estilos base onde o envelhecimento em madeira é um requisito fundamental (por exemplo, Flanders Red, Lambic). Cervejas feitas com envelhecimento limitado em madeira ou produtos que fornecem apenas um caráter sutil de fundo podem ser inseridas nas categorias de estilo base de cerveja, desde que o caráter de madeira não seja destacado.
+Grande parte do caráter depende do tipo de madeira usada e de como ela complementa e aprimora o estilo base. O caráter de envelhecimento é permitido, mas oxidação ou acidez excessiva é uma falha. Álcool perceptível não é uma falha em estilos base mais fortes. Esta categoria não deve ser usada para estilos base onde o envelhecimento em madeira é um requisito fundamental (por exemplo, Flanders Red, Lambic). Cervejas feitas com envelhecimento limitado em madeira ou produtos que fornecem apenas um caráter sutil de fundo podem ser inseridas nas categorias de estilo base de cerveja, desde que o caráter de madeira não seja destacado.
 
 ### História
 
