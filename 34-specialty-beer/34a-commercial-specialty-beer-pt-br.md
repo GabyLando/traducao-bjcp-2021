@@ -1,5 +1,7 @@
 ## 34A. Commercial Specialty Beer
 
+Este estilo é destinado a reproduções ou interpretações de cervejas comerciais específicas e que não se enquadram em outros estilos definidos. As cervejas nele inscritas não precisam ser cópias exatas. A cerveja deve ser julgada de acordo com o quão bem ela se encaixa no estilo mais amplo, representado pela cerveja exemplo, e não com o quão uma cópia exata de um produto comercial específico ela é. Se uma Commercial Specialty Beer se encaixa em outro estilo definido, não a inscreva aqui.
+
 ### Impressão Geral
 
 De acordo com a cerveja declarada.
