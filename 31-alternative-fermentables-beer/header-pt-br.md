@@ -1,3 +1,3 @@
 # 31. Alternative Fermentables Beer
 
-Essa categoria contém Cervejas Tipo Especializadas usando grãos ou açúcar para adicionar um caráter distintivo. Veja a sessão Introdução a Cervejas Tipo Especializadas para comentários adicionais, particularmente referente a avaliação do equilíbro dos ingredientes adicionados à cerveja base.
+Esta categoria contém Cervejas de Especialidade com a adição de grãos ou açúcar, usados para fornecer um caráter distintivo. Veja a sessão Introdução a Cervejas de Especialidade para mais comentários, particularmente referente a avaliação do equilíbro dos ingredientes adicionados à cerveja base.
