@@ -1,5 +1,7 @@
 ## 31A. Alternative Grain Beer
 
+An Alternative Grain Beer is a standard beer (Classic Style or not) with additional or non-standard brewing grains (e.g., rye, oats, buckwheat, spelt, millet, sorghum, rice) added or used exclusively. Gluten-free (GF) beers made from completely gluten-free ingredients may be entered here, while GF beers using process-based gluten removal should be entered in their respective base style categories.
+
 ### Overall Impression
 
 A base beer enhanced by or featuring the character of additional grains. The specific character depends greatly on the added grains.

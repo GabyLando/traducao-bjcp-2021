@@ -1,5 +1,7 @@
 ## 32B. Specialty Smoked Beer
 
+A Specialty Smoked Beer is either a smoked beer based on something other than a Classic Style (a Specialty-Type style, or a broad style family such as Porter rather than a specific style), OR any type of smoked beer with additional specialty ingredients (fruits, vegetables, spices) or processes employed that transform the beer into something more unique.
+
 ### Overall Impression
 
 A well-balanced fusion of the malt and hops of the base specialty beer style with a pleasant and agreeable smoke character.

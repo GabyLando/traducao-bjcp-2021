@@ -1,5 +1,7 @@
 ## 32A. Classic Style Smoked Beer
 
+*Intended for smoked versions of Classic Style beers, except if the Classic Style beer has smoke as an inherent part of its definition (of course, that beer should be entered in its base style, such as Rauchbier).*
+
 ### Overall Impression
 
 A well-balanced fusion of the malt and hops of the base beer style with a pleasant and agreeable smoke character.

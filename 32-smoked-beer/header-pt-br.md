@@ -1,3 +1,3 @@
 # 32. Smoked Beer
 
-Essa categoria contém Cervejas Tipo Especializadas que possuem um caráter defumado.
+Esta categoria contém Cervejas de Especialidade que possuem um caráter defumado.
