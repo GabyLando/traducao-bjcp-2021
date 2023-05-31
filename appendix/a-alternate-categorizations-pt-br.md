@@ -1,6 +1,6 @@
 # APÊNDICE A: CATEGORIZAÇÕES ALTERNATIVAS
 
-Muitas pessoas solicitaram categorizações alternativas do estilos do BJCP, visto que o guia pode ser usado para outros propósitos além de competições caseiras (ex., educação, pesquisa, estudo). Para atender melhor essas necessidades foi desenvolvido um sistema adicional. As categorias alternativas são listadas junto com os estilos atuais de 2021 do guia principal.
+Muitas pessoas solicitaram categorizações alternativas do estilos do BJCP, visto que o guia pode ser usado para outros propósitos além de competições caseiras (p.ex., educação, pesquisa, estudo). Para atender melhor essas necessidades, um sistema adicional foi desenvolvido. As categorias alternativas são listadas, junto dos estilos atuais do guia principal de 2021.
 
 ## 1. Estilos classificados usando categorias de 2008 (estrito)
 
@@ -143,7 +143,7 @@ Esse sistema usa as categorias de 2008 com os estilos de cerveja equivalente ao 
 
 ## 2. Estilos classificados usando o guia 2008 (modificado)
 
-Esse sistema usa as categorias de 2008 com os estilos de cerveja equivalentes mais próximos do guia de 2021. Novos estilos introduzidos no guia de 2021 foram adicionados às categorias de 2008 (determinadas subjetivamente) mais apropriadas.
+Este sistema usa as categorias de 2008 com os estilos de cerveja equivalentes mais próximos do guia de 2021. Novos estilos introduzidos no guia de 2021 foram adicionados às categorias de 2008 (determinadas subjetivamente) mais apropriadas.
 
 - (2)1. Light Lager
   - A. 1A. American Light Lager
@@ -286,7 +286,7 @@ Esse sistema usa as categorias de 2008 com os estilos de cerveja equivalentes ma
 
 ## 3. Estilos classificados usando família de estilo
 
-Esse sistema usa novas categorias baseadas na família de estilo ou nome de estilo de cerveja sem considerar o país de origem ou história; baseado primariamente em cor e levedura. Tem menos categorias e mais amplas.
+Este sistema usa novas categorias baseadas na família de estilo ou nome de estilo de cerveja, sem considerar o país de origem ou história; baseado, primariamente, em cor e levedura. Possui menos categorias, mas mais amplas.
 
 - (3)1. Pale Lager
   - A. 1A. American Light Lager
@@ -401,7 +401,7 @@ Esse sistema usa novas categorias baseadas na família de estilo ou nome de esti
 
 ## 4. Estilos classificados usando o país de origem
 
-Esse sistema usa novas categorias baseadas no país de origem. Cervejas Specialty são omitidas.
+Este sistema usa novas categorias, baseadas no país de origem. Cervejas Specialty são omitidas.
 
 - (4)1. Estados Unidos da América
   - A. 1A. American Light Lager
@@ -513,7 +513,7 @@ Esse sistema usa novas categorias baseadas no país de origem. Cervejas Specialt
 
 ## 5. Estilos classificados usando história
 
-Esse sistema tenta dividir os estilos em grupos baseados no desenvolvimento histórico e estilos derivados em uma abordagem mais granular que a classificação por familia de estilo
+Este sistema tenta dividir os estilos em grupos baseados no desenvolvimento histórico e estilos derivados, em uma abordagem mais granular que a classificação por familia de estilo.
 
 - (5)1. Pilsner
   - A. 3A. Czech Pale Lager

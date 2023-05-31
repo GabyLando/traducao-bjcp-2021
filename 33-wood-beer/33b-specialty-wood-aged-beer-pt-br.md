@@ -4,27 +4,27 @@ Este estilo é destinado às cervejas envelhecidas em madeira com a adição do 
 
 ### Impressão Geral
 
-Uma elevação do estilo de cerveja base com características provenientes do envelhecimento em contato com a madeira, incluindo madeira que esteve previamente em contato com produtos alcoólicos. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
+Um aprimoramento do estilo base da cerveja, com as características provenientes do envelhecimento em contato com a madeira, incluindo as que estiveram previamente em contato com bebidas alcoólicas. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
 
 ### Aparência
 
-Varia com o estilo base. Frequentemente mais escura do que o estilo de cerveja base inalterado, particularmente se forem usados barris chamuscados. Cervejas envelhecidas em barris de vinho ou outros produtos com cores distintas também podem conferir uma cor à cerveja finalizada.
+Varia de acordo com o estilo base. Frequentemente uma cerveja mais escura do que o estilo base inalterado, particularmente se forem usados barris carbonizados. Cervejas envelhecidas em barris de vinho ou outras bebidas com cores distintas também podem conferir cor à cerveja finalizada.
 
 ### Aroma
 
-Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades de madeira podem ter um caráter mais forte ou distinto. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau. Os aromas associados ao álcool (por exemplo, bebidas destiladas, vinho) previamente armazenados na madeira devem ser perceptíveis, mas equilibrados.
+Varia de acordo com o estilo base. Um aroma amadeirado, de baixo a moderado, geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. Se a madeira for tostada ou carbonizada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, tosta ou cacau. Os aromas associados ao álcool previamente armazenado na madeira (por exemplo, de destilados, vinho) devem ser perceptíveis, mas equilibrados.
 
 ### Sabor
 
-Varia com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira torrada ou chamuscada pode adicionar baunilha, caramelo, caramelo, pão torrado, nozes torradas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de torrada ou carvão. Sabores derivados de madeira e sabores de álcool adicionado devem ser equilibrados, mutuamente sustentados e perceptíveis, sem ser excessivo ao estilo de cerveja base ou um ao outro.
+Varia de acordo com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um perfil característico da variedade utilizada. A madeira tostada ou carbonizada pode adicionar notas de baunilha, caramelo, butterscotch, pão tostado, nozes tostadas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de queima usada. Os sabores derivados da madeira e do álcool previamente armazenado na madeira devem ser equilibrados, mutuamente sustentados e perceptíveis, sem serem excessivos em relação ao estilo base da cerveja ou um ao outro.
 
 ### Sensação de Boca
 
-Varia com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura do final; alguma adstringência dos taninos da madeira é permitida. Geralmente apresenta aquecimento alcoólico adicional, mas não deve ser quente ou áspero. As características azedas ou ácidas devem ser de baixas a inexistentes, mas nunca perturbadoras.
+Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura no final; alguma adstringência dos taninos da madeira é permitida. Geralmente apresenta aquecimento alcoólico adicional, mas que não deve ser quente ou áspero. As características azedas ou ácidas devem ser baixas ou inexistentes.
 
 ### Comentários
 
-O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico suporta e melhora a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecido é permitido, mas oxidação excessiva ou acidez é uma falha. Cervejas wild especiais envelhecidas em madeira devem ser inseridas na 28C Wild Specialty Beer.
+O sucesso neste estilo depende do quanto os caráteres amadeirado e alcoólico complementam e aprimoram a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecimento é permitido, mas oxidação ou acidez excessivas são falhas. Cervejas ácidas envelhecidas em madeira devem ser inscritas em 28C Wild Specialty Beer.
 
 ### História
 
@@ -32,15 +32,19 @@ Igual a 33A Wood-Aged Beer.
 
 ### Ingredientes
 
-Varia com o estilo base. Envelhecido em tonéis ou barris de madeira anteriormente utilizados para armazenar álcool (por exemplo, uísque, bourbon, rum, gin, tequila, porto, xerez, vinho Madeira, vinho). Estilos de base mais encorpados e de maior gravidade geralmente são usados, pois podem resistir melhor aos sabores adicionais, embora novas experiências sejam incentivadas.
+Varia de acordo com o estilo base. Envelhecidas em tonéis ou barris de madeira anteriormente utilizados para armazenar bebidas alcoólicas (por exemplo, uísque, bourbon, rum, gin, tequila, porto, xerez, vinho Madeira, vinho). Estilos base mais encorpados e de maior densidade geralmente são usados, pois podem resistir melhor aos sabores adicionais, embora experimentações são incentivadas.
 
 ### Instruções de Entrada
 
-O participante deve especificar o caráter alcoólico adicionado, com informações sobre o barril se relevante para o perfil de sabor final. Se uma madeira ou ingrediente incomum foi usado, o participante deve fornecer uma breve descrição dos aspectos sensoriais que os ingredientes adicionam à cerveja. O participante deve especificar uma descrição da cerveja, identificando um Estilo Base ou os ingredientes, especificações ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
+O participante deve especificar o caráter alcoólico adicional, com informações sobre o barril, caso sejam relevantes para o perfil final do sabor. Caso seja usada uma variedade incomum de madeira, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que ela agrega à cerveja. O participante deve fazer a descrição da cerveja, identificando um Estilo Base, ou os ingredientes e especificações, ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 
-IBU: varia com o estilo base SRM: varia com o estilo de base, muitas vezes mais escuro do que o estilo de base inalterado OG: varia com o estilo base, normalmente acima da média FG: varia com o estilo base ABV: varia com o estilo base, normalmente acima da média
+IBU: varia de acordo com o estilo base 
+SRM: varia de acordo com o estilo base, muitas vezes mais escuro do que o estilo base inalterado 
+OG: varia de acordo com o estilo base, normalmente acima da média
+FG: varia de acordo com o estilo base 
+ABV: varia de acordo com o estilo base, normalmente acima da média
 
 ### Exemplos Comerciais
 
