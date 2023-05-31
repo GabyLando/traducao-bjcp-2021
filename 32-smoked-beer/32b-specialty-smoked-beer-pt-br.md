@@ -1,6 +1,6 @@
 ## 32B. Specialty Smoked Beer
 
-Uma Specialty Smoked Beer é uma cerveja defumada, baseada em algo que não um Estilo Clássico (uma Cerveja de Especialidade, ou uma ampla família de estilos, como Porter, ao invés de um estilo específico), OU qualquer tipo de cerveja defumada com adição de ingredientes especiais (frutas, legumes, especiarias), ou com o uso de processos que transformam a cerveja em algo único.
+Uma Specialty Smoked Beer é uma cerveja defumada, com base em alguma que não seja um Estilo Clássico (uma Cerveja de Especialidade, ou uma ampla família de estilos, como Porter, ao invés de um estilo específico), OU qualquer tipo de cerveja defumada com adição de ingredientes especiais (frutas, legumes, especiarias), ou com o uso de processos que transformam a cerveja em algo único.
 
 ### Impressão Geral
 
