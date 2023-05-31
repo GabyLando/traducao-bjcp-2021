@@ -30,11 +30,11 @@ Uma adaptação local da Foreign Extra Stouts fabricada com ingredientes e méto
 
 ### Ingredientes
 
-Semelhante a uma Sweet Stout, mas com maior gravidade. Malte pale, maltes torrados escuros e grãos. Lúpulo principalmente para amargor. Pode usar adjuntos e açúcar para aumentar a gravidade. Normalmente feita com levedura lager fermentada a quente.
+Semelhante a uma Sweet Stout, mas com maior densidade. Malte pale, maltes torrados escuros e grãos. Lúpulo principalmente para amargor. Pode usar adjuntos e açúcar para aumentar a densidade. Normalmente feita com levedura lager fermentada a quente.
 
 ### Comparação de estilos
 
-Tem gosto de uma Sweet Stout escalonada com maior frutado. Semelhante a algumas Imperial Stouts sem o alto amargor, torra forte ou queimado, e lúpulos tardios e com menor teor alcoólico. Muito mais doce e menos lupulada do que American Stouts. Muito mais doce e menos amarga do que as Foreign Extra Stouts de gravidade semelhante.
+Tem gosto de uma Sweet Stout escalonada com maior frutado. Semelhante a algumas Imperial Stouts sem o alto amargor, torra forte ou queimado, e lúpulos tardios e com menor teor alcoólico. Muito mais doce e menos lupulada do que American Stouts. Muito mais doce e menos amarga do que as Foreign Extra Stouts de densidade semelhante.
 
 ### Estatísticas
 
