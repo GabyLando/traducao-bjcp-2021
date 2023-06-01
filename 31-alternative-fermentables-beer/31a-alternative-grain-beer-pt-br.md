@@ -24,7 +24,7 @@ A mesma do estilo base da cerveja, embora muitos cereais adicionados aumentem o 
 
 ### Comentários
 
-O cereal adicionado deve estar aparente no perfil sensorial. Se o cereal alternativo não fornece um caráter distinto e perceptível à cerveja, inscreva ela como um estilo base. Esta subcategoria não deve ser usada para estilos em que o cereal alternativo é fundamental para a sua definição (p. ex. Rye IPA, Oatmeal Stout, International Lagers com adição de arroz ou milho). Note que o saquê não é uma cerveja e não faz parte desta categoria.
+O cereal adicionado deve estar aparente no perfil sensorial. Se o cereal alternativo não fornece um caráter distinto e perceptível à cerveja, inscreva-a como um estilo base. Esta subcategoria não deve ser usada para estilos em que o cereal alternativo é fundamental para a sua definição (p. ex. Rye IPA, Oatmeal Stout, International Lagers com adição de arroz ou milho). Note que o saquê não é uma cerveja e não faz parte desta categoria.
 
 ### Instruções para inscrição
 
