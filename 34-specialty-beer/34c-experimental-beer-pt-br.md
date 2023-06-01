@@ -20,7 +20,7 @@ O participante deve especificar a natureza especial da cerveja experimental, inc
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar, a depender da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar de acordo com a cerveja declarada.
 
 ### Exemplos Comerciais
 
