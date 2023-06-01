@@ -16,11 +16,11 @@ O estilo não pode representar uma cerveja comercial reconhecida (caso contrári
 
 ### Instruções para inscrição
 
-O participante deve especificar a natureza especial da cerveja experimental, incluindo os ingredientes ou processos especiais que fazem com que ela não se encaixe em nenhum outro lugar deste guia. O participante deve fornecer as estatísticas da cerveja, e uma breve descrição sensorial ou a lista de ingredientes usados. Sem essas informações, os juízes não terão base para a avaliação.
+O participante deve especificar a natureza especial da cerveja experimental, incluindo os ingredientes e/ou os processos especiais que fazem com que ela não se encaixe em nenhum outro lugar deste guia. O participante deve fornecer as estatísticas da cerveja e uma breve descrição sensorial e/ou a lista de ingredientes usados. Sem essas informações, os juízes não terão base para a avaliação.
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar, a depender da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar de acordo com a cerveja declarada.
 
 ### Exemplos Comerciais
 

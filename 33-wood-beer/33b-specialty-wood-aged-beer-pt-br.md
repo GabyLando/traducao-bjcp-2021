@@ -36,7 +36,7 @@ Varia de acordo com o estilo base. Envelhecidas em tonéis ou barris de madeira 
 
 ### Instruções de Entrada
 
-O participante deve especificar o caráter alcoólico adicional, com informações sobre o barril, caso sejam relevantes para o perfil final do sabor. Caso seja usada uma variedade incomum de madeira, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que ela agrega à cerveja. O participante deve fazer a descrição da cerveja, identificando um Estilo Base, ou os ingredientes e especificações, ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
+O participante deve especificar o caráter alcoólico adicional, com informações sobre o barril, caso sejam relevantes para o perfil final do sabor. Caso seja usada uma variedade incomum de madeira, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que ela agrega à cerveja. O participante deve fornecer a descrição da cerveja, identificando um Estilo Base e/ou os ingredientes e especificações e/ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 

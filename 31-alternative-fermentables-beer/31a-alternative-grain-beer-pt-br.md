@@ -1,32 +1,34 @@
 ## 31A. Alternative Grain Beer
 
+Uma Alternative Grain Beer é uma cerveja de estilo padrão (sendo Estilo Clássico, ou não) feita com o uso exclusivo ou com a adição de cereais cervejeiros ou não-usuais (por exemplo, centeio, aveia, trigo sarraceno, espelta, painço, sorgo, arroz). Cervejas sem glúten feitas com ingredientes que não possuam sem glúten, podem ser inscritas aqui; cervejas sem glúten que são feitas por processo de remoção da substância devem ser inscritas em suas respectivas categorias de estilo base.
+
 ### Impressão Geral
 
-Uma cerveja aprimorada ou com destaque para o caráter dos grãos adicionados. O caráter específico depende muito dos grãos usados.
+Uma cerveja base apresentando ou aprimorada pelo caráter dos cereais adicionados. O caráter específico depende de quais cereais são usados.
 
 ### Aparência
 
-A mesma do estilo base de cerveja, embora alguma turbidez adicional possa ser notada.
+A mesma do estilo base da cerveja, embora alguma turbidez adicional possa estar presente.
 
 ### Aroma
 
-O mesmo do estilo base de cerveja. Os grãos adicionados vão dar caráter particular, embora com alguns grãos a cerveja simplesmente pareça um pouco mais com caráter de grãos ou de nozes; e alguns possam ter um caráter relativamente neutro.
+O mesmo do estilo base de cerveja. Os cereais adicionados podem resultar em um caráter particular, embora, com alguns deles, a cerveja simplesmente apresente um caráter levemente superior de cereais ou de nozes; alguns podem ter um caráter relativamente neutro.
 
 ### Sabor
 
-O mesmo do estilo base de cerveja. O grão adicional deve ser perceptível no sabor, embora possa não ser necessariamente identificável. Alguns grãos contribuem com um sabor adicional de grão, como de pão ou nozes, enquanto outros simplesmente aprimoram o sabor da cerveja base. Alguns grãos adicionam uma secura ao final.
+O mesmo do estilo base de cerveja. Os cereais adicionados devem ser perceptíveis no sabor, embora não necessariamente identificáveis. Alguns cereais contribuem com um sabor adicional, como de pão ou nozes, enquanto outros simplesmente aprimoram o sabor da cerveja base. Alguns cereais adicionam secura ao final.
 
 ### Sensação na Boca
 
-Igual ao estilo da cerveja base, embora muitos grãos adicionais aumentem o corpo e viscosidade (por exemplo, aveia, centeio), outros criam uma cerveja mais leve (por exemplo, grãos sem gluten).
+A mesma do estilo base da cerveja, embora muitos cereais adicionados aumentem o corpo e viscosidade (p. ex. aveia, centeio), enquanto outros promovem uma cerveja mais leve (p. ex. cereais sem glúten).
 
 ### Comentários
 
-O grão adicional deve estar aparente em algum lugar no perfil sensorial. Se o grão alternativo não fornece um caráter distinto perceptível à cerveja, inscreva ela como o estilo base. Esse estilo não deve ser usado para estilos onde o grão alternativo é fundamental para a definição do estilo (por exemplo, Rye IPA, Oatmeal Stout, International Lagers com base em arroz ou milho). Note que o saquê não é uma cerveja e não é destinado a essa categoria.
+O cereal adicionado deve estar aparente no perfil sensorial. Se o cereal alternativo não fornece um caráter distinto e perceptível à cerveja, inscreva-a como um estilo base. Esta subcategoria não deve ser usada para estilos em que o cereal alternativo é fundamental para a sua definição (p. ex. Rye IPA, Oatmeal Stout, International Lagers com adição de arroz ou milho). Note que o saquê não é uma cerveja e não faz parte desta categoria.
 
 ### Instruções para inscrição
 
-O participante deverá especificar o tipo de grão alternativo usado. O participante deve especificar uma descrição da cerveja, identificando o Estilo Base ou os ingredientes, estatísticas ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens requiridos.
+O participante deverá especificar o tipo de cereal alternativo usado. O participante deve apresentar a descrição da cerveja, identificando um Estilo Base e/ou os ingredientes e especificações e/ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 

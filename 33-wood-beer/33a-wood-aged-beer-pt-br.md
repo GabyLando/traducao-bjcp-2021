@@ -24,7 +24,7 @@ Varia de acordo com o estilo base. Os taninos da madeira podem aumentar a percep
 
 ### Comentários
 
-Grande parte do caráter depende do tipo de madeira usada e de como ela complementa e aprimora o estilo base. O caráter de envelhecimento é permitido, mas oxidação ou acidez excessivas são falhas. Álcool perceptível não é uma falha em estilos base mais fortes. Esta categoria não deve ser usada para estilos base onde o envelhecimento em madeira é um requisito fundamental (por exemplo, Flanders Red, Lambic). Cervejas feitas com envelhecimento limitado em madeira ou produtos que fornecem apenas um caráter sutil de fundo podem ser inseridas nas categorias de estilo base de cerveja, desde que o caráter de madeira não seja destacado.
+Grande parte do caráter depende do tipo de madeira usada e de como ela complementa e aprimora o estilo base. O caráter de envelhecimento é permitido, mas oxidação ou acidez excessivas são falhas. Álcool perceptível não é uma falha em estilos base mais fortes. Esta categoria não deve ser usada para estilos base onde o envelhecimento em madeira é um requisito fundamental (por exemplo, Flanders Red, Lambic). Cervejas feitas com envelhecimento limitado em madeira ou produtos que fornecem apenas um caráter sutil podem ser inseridas nas categorias de estilo base de cerveja, desde que o caráter de madeira não seja destacado.
 
 ### História
 
@@ -36,7 +36,7 @@ Varia de acordo com o estilo base. Envelhecido em barris ou tonéis de madeira o
 
 ### Instruções de Entrada
 
-O participante deverá especificar o tipo de madeira utilizada e o nível de tosta ou carbonização (se utilizada). Caso seja usada uma variedade incomum de madeira, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que ela agrega à cerveja. O participante deve fazer a descrição da cerveja, identificando um Estilo Base, ou os ingredientes e especificações, ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
+O participante deverá especificar o tipo de madeira utilizada e o nível de tosta ou carbonização (se utilizada). Caso seja usada uma variedade incomum de madeira, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que ela agrega à cerveja. O participante deve fornecer a descrição da cerveja, identificando um Estilo Base e/ou os ingredientes e especificações e/ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 

@@ -1,32 +1,35 @@
 ## 31B. Alternative Sugar Beer
 
+Uma Alternative Sugar Beer é uma cerveja de estilo padrão (sendo Estilo Clássico, ou não) com adição de açúcares fermentáveis (por exemplo, mel, açúcar mascavo, açúcar invertido, melaço, xarope de bordo, sorgo), açúcares não fermentáveis (por exemplo, lactose), álcoois de açúcar (por exemplo, sorbitol) ou qualquer outro adoçante (natural ou artificial) que afetem o perfil de sabor. As cervejas podem ou não ter dulçor residual; depende do tipo de açúcar, mas contribuições ao sabor são esperadas.
+
+
 ### Impressão Geral
 
-Uma saborosa integração de açúcar e cerveja, mas ainda assim reconhecível como cerveja. O caráter de açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
+Uma saborosa união entre açúcar e cerveja, mas ainda assim reconhecível como cerveja. O caráter de açúcar deve estar em equilíbrio com a cerveja e em evidência, mas não a ponto que sugira um produto artificial.
 
 ### Aparência
 
-Igual à cerveja base, embora alguns açúcares possam trazer cores adicionais, geralmente mais escuras.
+A mesma do estilo base da cerveja, embora alguns açúcares possam adicionar cor, geralmente mais escura.
 
 ### Aroma
 
-Igual à cerveja base, exceto que alguns fermentáveis adicionais (por exemplo, mel, melado) podem adicionar um aroma que deve ser uma combinação agradável e equilibrada com a cerveja.
+O mesmo do estilo base de cerveja, exceto que alguns fermentáveis adicionados (p.ex. mel, melaço) podem trazer aromas, que devem ser agradáveis e estar em equilíbrio com a cerveja.
 
 ### Sabor
 
-Igual à cerveja base, exceto que alguns fermentáveis adicionais (por exemplo, mel, melado) podem adicionar sabor que deve ser uma combinação agradável e equilibrada com a cerveja. Açúcares adicionados não devem ter um sabor cru e não fermentado. Alguns açúcares não fermentáveis tornam o final mais cheio (doce), enquanto açúcares totalmente fermentáveis podem secá-lo.
+O mesmo do estilo base de cerveja, exceto que alguns fermentáveis adicionados (p.ex. mel, melaço) podem trazer sabores, que devem ser agradáveis e estar em equilíbrio com a cerveja. Açúcares adicionados não devem ter um sabor cru, não fermentado. Alguns açúcares não fermentáveis tornam o final mais cheio (doce), enquanto açúcares totalmente fermentáveis podem secá-lo.
 
 ### Sensação na Boca
 
-Igual à cerveja base, ainda que dependendo do tipo de açúcar adicionado, possa aumentar ou diminuir o corpo.
+A mesma do estilo base da cerveja, embora, dependendo do tipo de açúcar adicionado, o corpo possa aumentar ou diminuir.
 
 ### Comentários
 
-O açúcar adicional deve estar aparente em algum lugar no perfil sensorial. Se os açúcares não conferem um caráter distinguível à cerveja, inscreva a amostra como o estilo base. Uma cerveja com base em mel não deve ter tanto mel que a leve a ser percebida mais como um hidromel com cerveja (um *braggot*) do que uma cerveja com mel. Esse estilo não deve ser usado para estilos onde o açúcar alternativo é fundamental para a definição do estilo ou onde pequenas quantidades de açúcar com sabor neutro é usado simplesmente para aumentar a densidade, aumentar a atenuação ou diminuir o sabor ou corpo; essas cervejas devem ser inscritas normalmente como o estilo base.
+O açúcar adicionado deve estar aparente no perfil sensorial. Se os açúcares não fornecem um caráter distinto e perceptível à cerveja, inscreva-a como um estilo base. Uma cerveja não deve ter tanto mel que a leve a ser percebida mais como um hidromel com cerveja (um *braggot*) do que uma cerveja com mel. Esta subcategoria não deve ser usada para estilos em que o açúcar alternativo é fundamental para a sua definição, ou quando pequena quantidade de açúcar com sabor neutro é usada simplesmente para aumentar a densidade e/ou a atenuação ou diminuir o sabor e/ou corpo; essas cervejas devem ser inscritas normalmente como o estilo base.
 
 ### Instruções para inscrição
 
-O participante deverá especificar o tipo de açúcar usado. O participante deve especificar uma descrição da cerveja, identificando ou o estilo base ou os ingredientes, estatísticas ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode cobrir todos os itens requiridos.
+O participante deverá especificar o tipo de açúcar usado. O participante deve apresentar a descrição da cerveja, identificando um Estilo Base e/ou os ingredientes e especificações e/ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 
