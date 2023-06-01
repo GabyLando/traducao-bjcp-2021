@@ -1,6 +1,6 @@
 ## 31A. Alternative Grain Beer
 
-Uma Alternative Grain Beer é uma cerveja de estilo padrão (sendo Estilo Clássico, ou não) feita com o uso exclusivo ou com a adição de cereais cervejeiros ou não-usuais (por exemplo, centeio, aveia, trigo sarraceno, espelta, painço, sorgo, arroz). Cervejas sem glúten feitas com ingredientes que não possuam sem glúten, podem ser inscritas aqui; cervejas sem glúten que são feitas com processo de remoção da substância devem ser inscritas em suas respectivas categorias de estilo base.
+Uma Alternative Grain Beer é uma cerveja de estilo padrão (sendo Estilo Clássico, ou não) feita com o uso exclusivo ou com a adição de cereais cervejeiros ou não-usuais (por exemplo, centeio, aveia, trigo sarraceno, espelta, painço, sorgo, arroz). Cervejas sem glúten feitas com ingredientes que não possuam sem glúten, podem ser inscritas aqui; cervejas sem glúten que são feitas por processo de remoção da substância devem ser inscritas em suas respectivas categorias de estilo base.
 
 ### Impressão Geral
 
@@ -12,7 +12,7 @@ A mesma do estilo base da cerveja, embora alguma turbidez adicional possa estar 
 
 ### Aroma
 
-O mesmo do estilo base de cerveja. Os cereais adicionados podem resultar em um caráter particular, embora, com alguns deles, a cerveja simplesmente apresente um caráter levemente superior de cereais ou de nozes; e alguns podem ter um caráter relativamente neutro.
+O mesmo do estilo base de cerveja. Os cereais adicionados podem resultar em um caráter particular, embora, com alguns deles, a cerveja simplesmente apresente um caráter levemente superior de cereais ou de nozes; alguns podem ter um caráter relativamente neutro.
 
 ### Sabor
 
@@ -20,7 +20,7 @@ O mesmo do estilo base de cerveja. Os cereais adicionados devem ser perceptívei
 
 ### Sensação na Boca
 
-Igual ao estilo da cerveja base, embora muitos cereais adicionados aumentem o corpo e viscosidade (p. ex. aveia, centeio), enquanto outros promovem uma cerveja mais leve (p. ex., cereais sem glúten).
+Igual ao estilo da cerveja base, embora muitos cereais adicionados aumentem o corpo e viscosidade (p. ex. aveia, centeio), enquanto outros promovem uma cerveja mais leve (p. ex. cereais sem glúten).
 
 ### Comentários
 
