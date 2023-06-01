@@ -1,10 +1,10 @@
 ## 32A. Classic Style Smoked Beer
 
-Destinado a versões defumadas de Estilos Clássicos, exceto se a cerveja do Estilo Clássico tiver o defumado como parte inerente de sua definição (então, claro, essa cerveja deve ser inscrita em seu estilo base, como Rauchbier).
+Destinado a versões defumadas de Estilos Clássicos, exceto se a cerveja do Estilo Clássico tiver o defumado como parte inerente de sua definição (então, claro, a cerveja deve ser inscrita em seu estilo base, como Rauchbier).
 
 ### Impressão Geral
 
-Uma fusão bem equilibrada de malte e lúpulos do estilo base, com um agradável caráter defumado.
+Uma fusão bem equilibrada de malte e lúpulos, do estilo base, com um agradável caráter defumado.
 
 ### Aparência
 
@@ -16,7 +16,7 @@ Um agradável equilíbrio entre o aroma esperado na cerveja base e o malte defum
 
 ### Sabor
 
-Similar ao aroma, com um equilíbrio entre a cerveja base e o malte defumado, de baixo a assertivo. Cada tipo de madeira produz diferentes perfis de sabores. O equilíbrio entre o defumado e a cerveja pode variar, mas a combinação resultante deve ser agradável. O defumado pode adicionar alguma secura ao final. Sabor acentuado, amargo, queimado, carbonizado, como borracha, sulfuroso, medicinal ou fenólico derivado de defumação é inapropriado.
+Similar ao aroma, com o caráter de malte defumado de baixo a assertivo e em equilíbrio com a cerveja base. Cada tipo de madeira produz diferentes perfis de sabores. O equilíbrio entre o defumado e a cerveja pode variar, mas a combinação resultante deve ser agradável. O defumado pode adicionar alguma secura ao final. Sabor acentuado, amargo, queimado, carbonizado, como borracha, sulfuroso, medicinal ou fenólico derivado de defumação é inapropriado.
 
 ### Sensação na Boca
 
