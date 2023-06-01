@@ -16,11 +16,11 @@ Destinada a ser uma subcategoria que engloba cervejas específicas, baseadas em 
 
 ### Instruções para inscrição
 
-O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja, e uma breve descrição sensorial ou a lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja comercial podem não ter base para comparação.
+O participante deve especificar o nome da cerveja comercial, as especificações (estatísticas) para a cerveja e uma breve descrição sensorial e/ou a lista de ingredientes usados. Sem essas informações, os juízes que não estão familiarizados com a cerveja comercial podem não ter base para comparação.
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar, a depender da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar, de acordo com a cerveja base declarada.
 
 ### Exemplos Comerciais
 
