@@ -1,5 +1,7 @@
 ## 31B. Alternative Sugar Beer
 
+An Alternative Sugar Beer is a standard beer (Classic Style or not) with added sweeteners, including fermentable sugars (e.g., honey, brown sugar, invert sugar, molasses, treacle, maple syrup, sorghum), unfermentable sugars (e.g., lactose), sugar alcohols (e.g., sorbitol), and any other sweetener (natural or artificial) that affects the flavor profile. The beers may or may not have any residual sweetness; it depends on the type of sugar, but flavor contributions are expected.
+
 ### Overall Impression
 
 A tasteful integration of sugar and beer, but still recognizable as beer. The sugar character should both be evident and in balance with the beer, not so forward as to suggest an artificial product.
