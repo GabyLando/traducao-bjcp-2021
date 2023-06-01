@@ -16,7 +16,7 @@ Um agradável equilíbrio entre o aroma esperado na cerveja base, o malte defuma
 
 ### Sabor
 
-Similar ao aroma, com um equilíbrio entre a cerveja base, ingredientes especiais e o malte defumado, de baixo a assertivo. Cada tipo de madeira produz diferentes perfis de sabores. O equilíbrio entre o defumado, a cerveja e ingredientes especiais pode variar, mas a combinação resultante deve ser agradável. O defumado pode adicionar alguma secura ao final. Sabor acentuado, amargo, queimado, carbonizado, como borracha, sulfuroso, medicinal ou fenólico derivado de defumação é inapropriado.
+Similar ao aroma, com o caráter de malte defumado de baixo a assertivo em equilíbrio com a cerveja base e ingredientes especiais. Cada tipo de madeira produz diferentes perfis de sabores. O equilíbrio entre o defumado, a cerveja e ingredientes especiais pode variar, mas a combinação resultante deve ser agradável. O defumado pode adicionar alguma secura ao final. Sabor acentuado, amargo, queimado, carbonizado, como borracha, sulfuroso, medicinal ou fenólico derivado de defumação é inapropriado.
 
 ### Sensação na Boca
 
@@ -32,7 +32,7 @@ O mesmo que o estilo 32A Classic Style Smoked Beer, com a possível adição de 
 
 ### Instruções para inscrição
 
-O participante deve especificar o tipo de madeira ou defumação, se um caráter defumado incomum for notável. O participante deve especificar os ingredientes ou processos adicionais que fazem dela uma cerveja de especialidade e defumada. O participante deve fazer a descrição da cerveja, identificando um Estilo Base, ou os ingredientes e especificações, ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
+O participante deve especificar o tipo de madeira ou defumação, se um caráter defumado incomum for notável. O participante deve especificar os ingredientes ou processos adicionais que fazem dela uma cerveja de especialidade e defumada. O participante deve fazer a descrição da cerveja, identificando um Estilo Base e/ou os ingredientes e especificações e/ou o caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 
