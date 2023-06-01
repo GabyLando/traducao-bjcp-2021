@@ -20,7 +20,7 @@ O participante deve especificar o nome da cerveja comercial, as especificações
 
 ### Estatísticas
 
-OG, FG, IBU, SRM e ABV vão variar, de acordo com a cerveja base declarada.
+OG, FG, IBU, SRM e ABV vão variar de acordo com a cerveja base declarada.
 
 ### Exemplos Comerciais
 
