@@ -20,7 +20,7 @@ O mesmo do estilo base de cerveja. Os cereais adicionados devem ser perceptívei
 
 ### Sensação na Boca
 
-Igual ao estilo da cerveja base, embora muitos cereais adicionados aumentem o corpo e viscosidade (p. ex. aveia, centeio), enquanto outros promovem uma cerveja mais leve (p. ex. cereais sem glúten).
+A mesma do estilo base da cerveja, embora muitos cereais adicionados aumentem o corpo e viscosidade (p. ex. aveia, centeio), enquanto outros promovem uma cerveja mais leve (p. ex. cereais sem glúten).
 
 ### Comentários
 
