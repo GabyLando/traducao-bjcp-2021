@@ -4,7 +4,7 @@
 
 ## Aroma
 
-As características aromáticas de uma determinada uva devem ser perceptíveis, mas não devem se sobrepor aos outros aromas. O caráter da uva deve ser agradável e não deve apresentar defeitos, como oxidação. O caráter de malte é geralmente contido e não deve exibir um perfil torrado, como em uma stout. O aroma de lúpulo (floral, terroso) pode variar de médio-baixo a ausente. Alguns exemplares podem ter um baixo caráter selvagem descrito como curral, terroso, caprino, mas não deve ser tão intenso como em uma Lambic ou Fruit Lambic. Sem diacetil.
+As características aromáticas de uma determinada uva devem ser perceptíveis, mas não devem se sobrepor aos outros aromas. O caráter da uva deve ser agradável e não deve apresentar defeitos, como oxidação. O caráter de malte é geralmente contido e não deve exibir um perfil torrado. O aroma de lúpulo (floral, terroso) pode variar de médio-baixo a ausente. Alguns exemplares podem ter um leve perfil selvagem, descrito como curral, terroso, caprino, mas não deve ser tão intenso como em uma Lambic ou Fruit Lambic. Sem diacetil.
 
 ## Aparência
 
