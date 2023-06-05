@@ -4,23 +4,23 @@
 
 ### Impressão Geral
 
-Uma cerveja refrescante de trigo, ácida e com frutas, possui um caráter vívido de frutas e uma acidez lática limpa. A graduação alcoólica contida, o corpo leve, a carbonatação elevada, e amargor abaixo da percepção fazem com que a fruta fresca seja o destaque. A fruta não precisa ser de caráter tropical, mas, normalmente, apresenta este perfil.
+Uma cerveja refrescante de trigo, ácida e com frutas, possui um caráter vívido de frutas e uma acidez lática limpa. A graduação alcoólica contida, o corpo leve, a carbonatação elevada e amargor abaixo da percepção fazem com que a fruta fresca seja o destaque. A fruta não precisa ser de caráter tropical, mas, normalmente, apresenta este perfil.
 
 ### Aroma
 
-Médio à alto caráter de fruta, reconhecível e identificável de forma imediata. Uma acidez lática limpa, de intensidade baixa à media, que complementa a fruta. Malte tipicamente neutro, mas pode apresentar notas de pão e grãos em caráter de apoio. Fermentação limpa, sem caráter de levedura selvagem ou funky. Sem aroma de lúpulo. Sem álcool agressivo. Especiarias, ervas e vegetais devem complementar a fruta, se estiverem presentes.
+Caráter de fruta de médio a alto, reconhecível e identificável de forma imediata. Acidez lática limpa, de intensidade baixa à média, que complementa a fruta. Malte tipicamente neutro, mas pode apresentar notas de pão e cereais em caráter de apoio. Fermentação limpa, sem caráter de levedura selvagem ou *funky*. Sem aroma de lúpulo. Sem álcool agressivo. Especiarias, ervas e vegetais devem complementar a fruta, se estiverem presentes.
 
 ### Aparência
 
-Coloração tipicamente bastante clara – amarela-palha até dourada. Espuma branca de média à alta formação e média à boa retenção. A coloração da espuma e da cerveja podem ser alteradas e ficar com a coloração da fruta. Pode ser de bastante límpida até turva. Efervescente.
+Coloração tipicamente bastante clara, de amarela-palha a dourada. Espuma branca de média à alta formação e média à boa retenção. A coloração da espuma e da cerveja podem ser alteradas e ficar com a coloração da fruta. Pode ser de bastante límpida à turva. Efervescente.
 
 ### Sabor
 
-Sabor de fruta fresca dominante, em intensidade média à alta, com uma acidez lática limpa, de intensidade baixa à média-alta de forma complementar, mas notável. A fruta deve ter um caráter fresco, sem parecer cozida, parecida com geléia ou artificial. O malte é normalmente ausente; se presente, pode ter um caráter baixo de grãos ou pão, mas não deve nunca competir com a fruta ou a acidez. Amargor do lúpulo abaixo do limiar de percepção. Final seco, com um retrogosto limpo, ácido e frutado. Sem sabor de lúpulo, notas acéticas, diacetil, ou sabores funk oriundos de Brett. Especiarias, ervas e vegetais são opcionais e em caráter complementar à fruta.
+Sabor de fruta fresca dominante, de médio a alto, e com acidez lática limpa, de baixa à média-alta, de forma complementar, mas notável. A fruta deve ter um caráter fresco, sem parecer cozida, parecida com geléia ou artificial. O malte é normalmente ausente; se presente, pode ter um caráter baixo de cereais ou pão, mas não deve nunca competir com a fruta ou a acidez. Amargor do lúpulo abaixo do limiar de percepção. Final seco, com um retrogosto limpo, ácido e frutado. Sem sabor de lúpulo, notas acéticas, diacetil, ou sabores *funky*, oriundos de Brettanomyces. Especiarias, ervas e vegetais são opcionais e em caráter complementar à fruta.
 
 ### Sensação na Boca
 
-Corpo baixo à médio-baixo. Carbonatação média à alta. Sem aquecimento alcoólico. Acidez baixa à média-baixa, sem ser agressivamente ácida ou adstringente.
+Corpo de baixo a médio-baixo. Carbonatação de média à alta. Sem aquecimento alcoólico. Acidez de baixa a média-baixa, sem ser agressivamente ácida ou adstringente.
 
 ### Comentários
 
@@ -32,7 +32,7 @@ Os exemplos individuais existiam com nomes diferentes, anteriormente, no Brasil,
 
 ### Ingredientes
 
-Malte Pilsen com malte de trigo ou trigo não maltado. A técnica de Kettle Sour com o uso de Lacto é a mais comum de ser utilizada, seguida por uma fermentação com uma levedura ale neutra. A fruta é tipicamente adicionada nos estágios finais da fermentação. Frutas da estação frescas, comumente tropicais. Especiarias, ervas e vegetais são opcionais, mas devem sempre estar em caráter de apoio e elevar a percepção da fruta.
+Malte Pilsen com malte de trigo ou trigo não maltado. A técnica de Kettle Sour com o uso de Lactobacillus é a mais comum de ser utilizada, seguida por uma fermentação com uma levedura ale neutra. A fruta é tipicamente adicionada nos estágios finais da fermentação. Frutas da estação, frescas, comumente tropicais. Especiarias, ervas e vegetais são opcionais, mas devem sempre estar em caráter de apoio e elevar a percepção da fruta.
 
 ### Comparação de Estilo
 
