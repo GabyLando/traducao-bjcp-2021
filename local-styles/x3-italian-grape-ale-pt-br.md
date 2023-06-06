@@ -45,6 +45,6 @@ SRM: 4 – 25 ABV: 4,5 – 12%
 
 Montegioco Open Mind, Birrificio Barley BB5-10, Birrificio del Forte Il Tralcio, Viess Beer al mosto di gewurtztraminer, CRAK IGA Cabernet, Birrificio Apuano Ninkasi, Luppolajo Mons Rubus
 
-## Style Attributes
+## Atributos do Estilo
 
 Specialty-beer, Fruit
