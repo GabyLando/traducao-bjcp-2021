@@ -1,6 +1,6 @@
 ## 30B. Autumn Seasonal Beer
 
-As Autumn Seasonal Beers são cervejas que sugerem um clima frio e a estação da colheita de outono *(do hemisfério Norte)*, e podem ter a adição de abóboras, morangas ou outras similares, associadas com especiarias.
+As Autumn Seasonal Beers são cervejas que sugerem um clima frio e a estação da colheita de outono *(do hemisfério Norte)*, e podem ter a adição de abóboras, morangas ou similares, associadas com especiarias.
 
 ### Impressão Geral
 
