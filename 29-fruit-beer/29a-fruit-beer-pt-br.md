@@ -10,7 +10,7 @@ Varia de acordo com o estilo base e ingredientes especiais utilizados. Cervejas 
 
 ### Aroma
 
-Varia de acordo com o estilo base. O caráter de fruta deve ser notável no aroma; entretanto, algumas frutas (p. ex., framboesas e cerejas) têm aromas mais intensos e distintos do que outras (p. ex., mirtilos e morangos) – o que permite uma gama de caráter e intensidade de frutas, de sutil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter da fruta. A fruta deve adicionar complexidade, mas não deve estar proeminentes a ponto de desequilibrar o produto final.
+Varia de acordo com o estilo base. O caráter de fruta deve ser notável no aroma; no entanto, algumas frutas (p. ex., framboesas e cerejas) têm aromas mais intensos e distintos do que outras (p. ex., mirtilos e morangos) – o que permite uma gama de caráter e intensidade de frutas, de sutil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter da fruta. A fruta deve adicionar complexidade, mas não deve estar proeminente a ponto de desequilibrar o produto final.
 
 ### Sabor
 
