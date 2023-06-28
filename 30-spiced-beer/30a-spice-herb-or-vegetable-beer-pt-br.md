@@ -24,7 +24,7 @@ Varia de acordo com o estilo base. SHVs podem aumentar ou diminuir o corpo. Algu
 
 ### Comentários
 
-A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes. Os SHVs devem complementar o estilo base, não sobrecarregá-lo. Os atributos do estilo base serão diferentes após a adição dos SHVs, ou seja, não espere que a cerveja tenha o sabor idêntico ao do estilo base.
+A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes. Os SHVs devem complementar o estilo base, não sobrecarregá-lo. Os atributos do estilo base serão diferentes após a adição dos SHVs, ou seja, não espere que a cerveja tenha o sabor idêntico ao do estilo base inalterado.
 
 ### Instruções para inscrição
 
