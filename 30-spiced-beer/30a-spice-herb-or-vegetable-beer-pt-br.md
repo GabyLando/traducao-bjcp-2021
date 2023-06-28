@@ -8,7 +8,7 @@ Uma atraente fusão entre especiarias, ervas ou vegetais (SHVs) e cerveja, mas a
 
 ### Aparência
 
-Varia de acordo com o estilo base e ingredientes especiais utilizados. Cervejas de cor mais clara, incluindo a espuma, podem apresentar cores vindas dos ingredientes adicionados. Limpidez variável, ainda que a turbidez seja geralmente indesejável. Alguns ingredientes podem impactar na retenção de espuma.
+Varia de acordo com o estilo base e ingredientes especiais utilizados. Cervejas de cor mais clara, incluindo o colarinho, podem apresentar cores vindas deles. Limpidez variável, ainda que a turbidez seja geralmente indesejável. Alguns ingredientes podem impactar na retenção de espuma.
 
 ### Aroma
 
