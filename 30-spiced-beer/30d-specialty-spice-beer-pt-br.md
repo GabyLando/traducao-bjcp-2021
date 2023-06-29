@@ -1,8 +1,10 @@
 ## 30D. Specialty Spice Beer
 
+Uma Specialty Spice Beer é uma cerveja 30A Spice, Herb, or Vegetable (SHV) com ingredientes adicionais, como açúcares fermentáveis ​​(por exemplo, mel, açúcar mascavo e açúcar invertido), adoçantes (por exemplo, lactose), adjuntos, cereais alternativos ou outros ingredientes especiais, ou algum processo adicional aplicado. Os estilos 30B Autumn Seasonal Beers e 30C Winter Seasonal Beers já permitem adição de ingredientes, não devendo ser utilizados como base neste estilo.
+
 ### Impressão Geral
 
-Uma atraente combinação entre especiarias, ervas ou vegetais (SHVs), açúcares e cerveja, mas ainda assim reconhecível como cerveja. O caráter de especiarias, ervas ou vegetais e açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
+Uma atraente combinação entre especiarias, ervas ou vegetais (SHVs), açúcares e cerveja, mas ainda assim reconhecível como cerveja. O caráter de SHVs e açúcar deve estar em equilíbrio com a cerveja e ser evidente, mas não proeminente a ponto de sugerir um produto artificial.
 
 ### Aparência
 
@@ -10,27 +12,27 @@ A mesma do Spice, Herb, or Vegetable Beer.
 
 ### Aroma
 
-O mesmo do SVH Beer, com exceção que alguns fermentáveis adicionados (por exemplo, mel, melaço) podem adicionar um componente de aroma. Qualquer componente adicional que estiver presente deve estar em equilíbrio com o SHV e os componentes da cerveja e ser uma combinação agradável.
+O mesmo de SVH Beer, com exceção que alguns fermentáveis adicionados (p. ex., mel e melaço) podem acrescentar um componente de aroma. Qualquer componente adicional de aroma que estiver presente deve estar em equilíbrio com os componentes da fruta e da cerveja e formar uma combinação agradável.
 
 ### Sabor
 
-O mesmo do SHV Beer, com exceção que alguns fermentáveis adicionados (por exemplo, mel, melaço) podem adicionar um componente de sabor. Qualquer componente de sabor adicional que estiver presente deve estar em equilíbrio com o SHV e os componentes da cerveja e ser uma combinação agradável. Açúcares adicionados não devem ter um sabor cru e não fermentado. Alguns açúcares adicionados terão elementos não fermentáveis que podem porporcionar um final mais doce e encorpado; açúcares totalmente fermentáveis podem deixar o final mais ralo.
+O mesmo de SHV Beer, com exceção que alguns fermentáveis adicionados (p. ex., mel e melaço) podem adicionar um componente de sabor. Qualquer componente adicional de sabor que estiver presente deve estar em equilíbrio com os componentes da fruta e da cerveja e formar uma combinação agradável. Açúcares adicionados não devem ter um sabor cru, não fermentado. Alguns açúcares adicionados terão elementos não fermentáveis que podem prover um final mais cheio e doce; açúcares totalmente fermentáveis podem deixar o final mais ralo.
 
 ### Sensação na Boca
 
-A mesma do SHV Beer, ainda que dependendo do tipo de açúcar adicionado, pode aumentar ou diminuir o corpo.
+A mesma de SHV Beer, ainda que, dependendo do tipo de açúcar adicionado, pode ter o corpo aumentado ou diminuído.
 
 ### Comentários
 
-Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva como outro estilo Spiced Beer (não Specialty Spice Beer) e omita a descrição dos ingredientes ou processos extras.
+Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva-a como outro estilo de Spiced Beer (não Specialty Spiced Beer) e omita a descrição dos ingredientes extras ou processos.
 
 ### Instruções para inscrição
 
-O participante deve especificar o tipo de SHVs usado, mas os ingredientes individuais não precisam ser especificados quando uma mistura de especiariais bem conhecida for utilizada (por exemplo, tempero de torta de maçã, curry em pó, pimenta em pó). O participante deve indicar o tipo de ingrediente adicional (conforme a introdução) ou processo especial empregado. O participante deve especificar uma descrição da cerveja, identificando um Estilo Base ou os ingredientes, especificações ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens requeridos.
+O participante deve especificar o tipo de especiarias, ervas ou vegetais utilizados, mas ingredientes individuais não necessitam serem especificados, caso façam parte de uma combinação conhecida de especiarias (p. ex., torta de maçã com especiarias, curry em pó, pimenta em pó). O participante deve especificar o tipo de ingrediente adicional (como na introdução) ou processo especial empregado. O participante deve fornecer uma descrição da cerveja, identificando o estilo base e os ingredientes, estatísticas e/ou caráter desejado para a cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
 ### Estatísticas
 
-OG, FG, IBU, SRM, e ABV vão variar dependendo do estilo base.
+OG, FG, IBU, SRM e ABV vão variar de acordo com a cerveja base.
 
 ### Exemplos Comerciais
 

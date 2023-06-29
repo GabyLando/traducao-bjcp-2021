@@ -1,6 +1,6 @@
 ## 30B. Autumn Seasonal Beer
 
-As Autumn Seasonal Beers são cervejas que sugerem um clima frio e a estação da colheita de outono *(do hemisfério Norte)*, e podem ter a adição de abóboras, morangas ou similares, associadas com especiarias.
+As Autumn Seasonal Beers são cervejas que sugerem um clima frio e a estação da colheita de outono *(do Hemisfério Norte)*, e podem ter a adição de abóboras, morangas ou similares, associadas com especiarias.
 
 ### Impressão Geral
 
@@ -16,19 +16,19 @@ Maltado, condimentado e equilibrado. Uma ampla faixa é aceita, desde que lembre
 
 ### Sabor
 
-Maltado, condimentado e equilibrado. Deve-se permitir a criatividade do cervejeiro para atingir o objetivo do tema. Especiarias adocicadasd ou aquecedoras são comuns *(p. ex., cravo, canela e gengibre)*. Sabores ricos e tostados de malte são comuns e podem incluir sabores de caramelo, pão tostado, crosta de torta, biscoito ou nozes. Podem incluir distintos sabores de açúcar, como melaço, mel ou açúcar mascavo. Sabores derivados de abóboras são muitas vezes enganosos, apenas provendo um dulçor mais rico. Os ingredientes especiais devem dar suporte e equilíbrio, sem ofucar a cerveja base. Amargor e sabor de lúpulo são usualmente restritos, para não interferirem no caráter especial. Geralmente, final é um pouco cheio e satisfatório, ocasionalmente com um leve sabor de álcool. Características de malte torrado são tipicamente ausentes.
+Maltado, condimentado e equilibrado. Deve-se permitir a criatividade do cervejeiro para atingir o objetivo do tema. Especiarias adocicadas ou aquecedoras são comuns *(p. ex., cravo, canela e gengibre)*. Sabores ricos e tostados de malte são comuns e podem incluir sabores de caramelo, pão tostado, crosta de torta, biscoito ou nozes. Podem incluir característicos sabores de açúcares, como melaço, mel ou açúcar mascavo. Sabores derivados de abóboras são muitas vezes enganosos, apenas provendo um dulçor mais rico. Os ingredientes especiais devem dar suporte e equilíbrio, sem ofucar a cerveja base. Amargor e sabor de lúpulo são usualmente restritos, para não interferirem no caráter especial. Geralmente, final é um pouco cheio e satisfatório, ocasionalmente com um leve sabor de álcool. Características de malte torrado são tipicamente ausentes.
 
 ### Sensação na Boca
 
-Corpo usualmente de médio a alto, podendo ser viscosa. Carbonatação de moderadamente baixa a moderadamente alta. Caráter de envelhecimento e aquecimento alcoólico são permitidos.
+Corpo geralmente de médio a alto, podendo ser viscosa. Carbonatação de moderadamente baixa a moderadamente alta. Caráter de envelhecimento e aquecimento alcoólico são permitidos.
 
 ### Comentários
 
-Utilizando o perfil sensorial de ingredientes que sugerem a temporada de colheita *(do hemisfério Norte)*, como torta de abóbora, torta de maçã ou batata doce caramelizada, equilibrados com, muitas vezes, uma cerveja base de suporte, muitas vezes maltada. A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes.
+Utilizando o perfil sensorial de ingredientes que sugerem a temporada de colheita *(do Hemisfério Norte)*, como torta de abóbora, torta de maçã ou batata doce caramelizada, equilibrados com, muitas vezes, uma cerveja base de suporte, muitas vezes maltada. A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes.
 
 ### Ingredientes
 
-Especiarias são necessárias e, muitas vezes, aquelas que remetem ao outono *(do hemisfério Norte)*, épocas de colheita e Dia de Ação de Graças (p. ex., pimenta da Jamaica, noz-moscada, canela, cravo, gengibre), porém qualquer combinação é possível e se incentiva a criatividade. Adjuntos que fornecem sabor são comuns (p. ex., melaço, açúcar invertido, açúcar mascavo, mel, xarope de bordo). Abóboras e morangas são muitas vezes utilizadas.
+Especiarias são necessárias e, muitas vezes, aquelas que remetem ao outono do Hemisfério Norte, épocas de colheita e Dia de Ação de Graças (p. ex., pimenta da Jamaica, noz-moscada, canela, cravo e gengibre), porém qualquer combinação é possível e a criatividade é incentivada. Adjuntos que fornecem sabor são comuns (p. ex., melaço, açúcar invertido, açúcar mascavo, mel e xarope de bordo). Abóboras e morangas são muitas vezes utilizadas.
 
 ### Instruções para inscrição
 

@@ -24,7 +24,7 @@ A mesma de Fruit Beer, ainda que, dependendo do tipo de açúcar adicionado, pod
 
 ### Comentários
 
-Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva como outro estilo de Fruit Beer (não Specialty Fruit Beer) e omita a descrição dos ingredientes extras ou processos.
+Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva-a como outro estilo de Fruit Beer (não Specialty Fruit Beer) e omita a descrição dos ingredientes extras ou processos.
 
 ### Instruções para inscrição
 
