@@ -28,7 +28,7 @@ Inicialmente produzinda em Birrificio Montegioco e Birrificio Barley, em 2006-20
 
 ## Ingredientes
 
-Malte Pils, na maioria dos casos, ou malte base Pale com alguns maltes especiais (se houver). O teor de uva pode representar até 40% do perfil de maltes. A uva ou o mosto de uvas, às vezes fervidos por longo tempo antes da utilização, podem ser utilizados em diferentes fases: durante a fervura ou, mais frequentemente, durante a fermentação primária ou secundária. A levedura pode apresentar um caráter neutro (mais comum) ou um perfil frutado ou condimentado (cepas inglesas e belgas). Levedura de vinho também pode ser usada em conjunto com outras leveduras. As variedades de lúpulos continentais, principalmente alemãs ou inglesas, são utilizadas em baixas quantidades para não caracterizar excessivamente a cerveja.
+Malte Pilsen, na maioria dos casos, ou malte base Pale com alguns maltes especiais (se houver). O teor de uva pode representar até 40% do perfil de maltes. A uva ou o mosto de uvas, às vezes fervidos por longo tempo antes da utilização, podem ser utilizados em diferentes fases: durante a fervura ou, mais frequentemente, durante a fermentação primária ou secundária. A levedura pode apresentar um caráter neutro (mais comum) ou um perfil frutado ou condimentado (cepas inglesas e belgas). Levedura de vinho também pode ser usada em conjunto com outras leveduras. As variedades de lúpulos continentais, principalmente alemãs ou inglesas, são utilizadas em baixas quantidades para não caracterizar excessivamente a cerveja.
 
 ## Comparação de Estilos
 
