@@ -24,11 +24,11 @@ Corpo geralmente de médio a alto, podendo ser viscosa. Carbonatação de modera
 
 ### Comentários
 
-Utilizando o perfil sensorial de ingredientes que sugerem a temporada de colheita *(do hemisfério Norte)*, como torta de abóbora, torta de maçã ou batata doce caramelizada, equilibrados com, muitas vezes, uma cerveja base de suporte, muitas vezes maltada. A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes.
+Utilizando o perfil sensorial de ingredientes que sugerem a temporada de colheita *(do Hemisfério Norte)*, como torta de abóbora, torta de maçã ou batata doce caramelizada, equilibrados com, muitas vezes, uma cerveja base de suporte, muitas vezes maltada. A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar individualmente cada ingrediente utilizado. Equilíbrio, facilidade de beber e execução do tema (do estilo proposto) são os fatores mais importantes.
 
 ### Ingredientes
 
-Especiarias são necessárias e, muitas vezes, aquelas que remetem ao outono *(do hemisfério Norte)*, épocas de colheita e Dia de Ação de Graças (p. ex., pimenta da Jamaica, noz-moscada, canela, cravo, gengibre), porém qualquer combinação é possível e se incentiva a criatividade. Adjuntos que fornecem sabor são comuns (p. ex., melaço, açúcar invertido, açúcar mascavo, mel, xarope de bordo). Abóboras e morangas são muitas vezes utilizadas.
+Especiarias são necessárias e, muitas vezes, aquelas que remetem ao outono do Hemisfério Norte, épocas de colheita e Dia de Ação de Graças (p. ex., pimenta da Jamaica, noz-moscada, canela, cravo e gengibre), porém qualquer combinação é possível e a criatividade é incentivada. Adjuntos que fornecem sabor são comuns (p. ex., melaço, açúcar invertido, açúcar mascavo, mel e xarope de bordo). Abóboras e morangas são muitas vezes utilizadas.
 
 ### Instruções para inscrição
 
