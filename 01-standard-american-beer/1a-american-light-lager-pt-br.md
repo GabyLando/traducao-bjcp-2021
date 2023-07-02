@@ -2,27 +2,27 @@
 
 ### Impressões gerais
 
-Altamente carbonatada e de corpo muito baixo, lager quase sem sabor, criada para ser consumida bem gelada. Muito refrescante e para matar a sede.
+Altamente carbonatada e de corpo muito baixo, uma lager quase sem sabor, criada para ser consumida bem gelada. Muito refrescante e para matar a sede.
 
 ### Aparência
 
-Cor de palha ao amarelo claro. Espuma branca não muito persistente. Límpida.
+Cor de palha a amarelo claro. Colarinho branco, não muito persistente. Límpida.
 
 ### Aroma
 
-De baixo a nenhum aroma de malte, caso presente, pode ser percebido como grãos, doce ou milho. Aroma de lúpulo de baixo a nenhum, podendo ter notas de picante, floral ou herbal. Apesar de ser desejável um caráter limpo de fermentação, uma leve característica de levedura não é uma falha.
+Aroma de malte de baixo a ausente, pode ser percebido como remetendo à cereais, adocicado ou milho. Aroma de lúpulo de baixo a ausente, podendo ter notas picantes, florais ou herbais. Apesar de ser desejável um caráter limpo de fermentação, um leve perfil de levedura não é uma falha.
 
 ### Sabor
 
-Relativamente neutra ao palato com um final fresco e seco. Sabor de grãos ou milho de baixo a muito baixo, que pode ser percebido como doçura devido ao baixo amargor. Sabor de lúpulo de baixo a nenhum, podendo ter perfil floral, picante ou herbal, embora seja raramente forte para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado ao ligeiramente amargo, mas comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
+Relativamente neutra ao palato, com um final fresco e seco. Sabor de cereais ou milho de baixo a muito baixo, que pode ser percebido como dulçor, devido ao baixo amargor. Sabor de lúpulo de baixo a ausente, podendo ter perfil floral, picante ou herbal, embora seja raramente forte o suficiente para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado a ligeiramente amargo, mas é comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
 
 ### Sensação na Boca
 
-Corpo muito leve, às vezes aguado. Carbonatação muito alta com carbonatação picante na língua.
+Corpo muito leve, às vezes aguado. Carbonatação muito alta, com carbonatação picante na língua.
 
 ### Comentários
 
-Desenvolvida para cativar a mais ampla gama de pessoas possível. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, a característica da levedura muitas vezes é o que diferencia as marcas.
+Desenvolvida para atrair a maior variedade possível do público em geral. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, a característica da levedura muitas vezes é o que diferencia as diversas marcas.
 
 ### História
 
