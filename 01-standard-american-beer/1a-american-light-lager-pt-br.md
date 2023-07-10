@@ -10,7 +10,7 @@ Cor de palha a amarelo claro. Colarinho branco, não muito persistente. Límpida
 
 ### Aroma
 
-Aroma de malte de baixo a ausente, pode ser percebido como remetendo à cereais, adocicado ou milho. Aroma de lúpulo de baixo a ausente, podendo ter notas picantes, florais ou herbais. Apesar de ser desejável um caráter limpo de fermentação, um leve perfil de levedura não é uma falha.
+Aroma de malte de baixo a ausente, pode ser percebido como remetendo à cereais, adocicado ou milho. Aroma de lúpulo de caráter picante ou floral é opcional. Apesar de ser desejável um caráter limpo de fermentação, um leve perfil de levedura não é uma falha.
 
 ### Sabor
 
