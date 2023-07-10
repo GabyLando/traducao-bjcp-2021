@@ -14,7 +14,7 @@ Aroma de malte de baixo a ausente, pode ser percebido como remetendo à cereais,
 
 ### Sabor
 
-Relativamente neutra no palato, com um final fresco e seco. Sabor de cereais ou milho de baixo a muito baixo, que pode ser percebido como dulçor, devido ao baixo amargor. Sabor de lúpulo de baixo a ausente, podendo ter perfil floral, picante ou herbal, embora seja raramente forte o suficiente para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado a ligeiramente amargo, mas é comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
+Relativamente neutra no palato, com um final fresco e seco. Sabor de cereais ou milho de muito baixo a baixo, que pode ser percebido como dulçor, devido ao baixo amargor. Sabor de lúpulo de baixo a ausente, podendo ter perfil floral, picante ou herbal, embora seja raramente forte o suficiente para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado a ligeiramente amargo, mas é comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
 
 ### Sensação na Boca
 
