@@ -18,7 +18,7 @@ Relativamente neutra no palato, com um final fresco e seco. Sabor de cereais ou 
 
 ### Sensação na Boca
 
-Corpo muito leve, às vezes aguado. Carbonatação muito alta, com carbonatação picante na língua.
+Corpo muito leve, às vezes aguado. Carbonatação muito alta, gera sensação de carbonatação picante na língua.
 
 ### Comentários
 
