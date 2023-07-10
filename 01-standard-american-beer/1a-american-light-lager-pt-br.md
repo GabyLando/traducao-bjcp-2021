@@ -22,7 +22,7 @@ Corpo muito leve, às vezes aguado. Carbonatação muito alta, gera sensação d
 
 ### Comentários
 
-Desenvolvida para atrair o maior público possível. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, o caráter de levedura muitas vezes é o que mais diferencia as marcas.
+Desenvolvida para atrair o maior público possível. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, o caráter de levedura muitas vezes é o que diferencia as diversas marcas.
 
 ### História
 
