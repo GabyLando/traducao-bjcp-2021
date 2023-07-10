@@ -54,4 +54,4 @@ American Light Lager (2015)
 
 ### Atributos do Estilo
 
-Balanço, baixa-fermentação, Lagered (maturada), América do Norte, Cor pálida, família-pale-lager, Intensidade session, estilo tradicional.
+balanced, bottom-fermented, lagered, north-america, pale-color, pale-lager-family, session-strength, traditional-style.
