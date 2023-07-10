@@ -14,7 +14,7 @@ Aroma de malte de baixo a ausente, pode ser percebido como remetendo à cereais,
 
 ### Sabor
 
-Relativamente neutra ao palato, com um final fresco e seco. Sabor de cereais ou milho de baixo a muito baixo, que pode ser percebido como dulçor, devido ao baixo amargor. Sabor de lúpulo de baixo a ausente, podendo ter perfil floral, picante ou herbal, embora seja raramente forte o suficiente para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado a ligeiramente amargo, mas é comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
+Relativamente neutra no palato, com um final fresco e seco. Sabor de cereais ou milho de baixo a muito baixo, que pode ser percebido como dulçor, devido ao baixo amargor. Sabor de lúpulo de baixo a ausente, podendo ter perfil floral, picante ou herbal, embora seja raramente forte o suficiente para ser detectado. Amargor de lúpulo de baixo a muito baixo. Equilíbrio pode variar de ligeiramente maltado a ligeiramente amargo, mas é comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
 
 ### Sensação na Boca
 
@@ -22,11 +22,11 @@ Corpo muito leve, às vezes aguado. Carbonatação muito alta, com carbonataçã
 
 ### Comentários
 
-Desenvolvida para atrair a maior variedade possível do público em geral. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, a característica da levedura muitas vezes é o que diferencia as diversas marcas.
+Desenvolvida para atrair o maior público possível. Sabores fortes significam falha na cerveja. Com pouco sabor de malte ou lúpulo, o caráter de levedura muitas vezes é o que mais diferencia as marcas.
 
 ### História
 
-A Coors produziu uma Light Lager por alguns anos na década de 1940. Versões modernas foram produzidas inicialmente por Rheingold em 1967 para atender os consumidores que faziam dieta, mas somente em 1973 se tornou popular, após a cervejaria Miller adquirir a receita e fazer grande propaganda de *marketing* entre os esportistas com o slogan "muito gosto, menos calorias". As cervejas deste estilo se tornaram as mais vendidas nos EUA na década de 1990.
+A Coors produziu uma Light Lager por alguns anos, na década de 1940. Versões modernas foram produzidas inicialmente por Rheingold, em 1967, para atender os consumidores que faziam dieta, mas, somente em 1973 se tornou popular, após a cervejaria Miller adquirir a receita e fazer uma grande ação de *marketing* entre os praticantes de esportes com o slogan "tastes great, less filling" *(em português, algo como "mais sabor, menos calorias")*. As cervejas deste estilo se tornaram as mais vendidas nos EUA na década de 1990.
 
 ### Ingredientes
 
@@ -34,7 +34,7 @@ Cevada de duas ou seis fileiras com até 40% de adjuntos (arroz ou milho). Enzim
 
 ### Comparação de Estilos
 
-Uma versão com menor corpo, menos álcool e menos calorias do que uma American Lager. Menos caráter de lúpulo e amargor do que na German Leitchbier.
+Uma versão com menor corpo, menos álcool e menos calorias que uma American Lager. Menos caráter de lúpulo e amargor do que na German Leitchbier.
 
 ### Estatísticas
 
