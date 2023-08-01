@@ -6,11 +6,11 @@ Uma stout muito escura, doce, encorpada e levemente torrada que pode sugerir caf
 
 ### Aparência
 
-Cor marrom muito escuro a preto. Límpida, se não for opaca. Colarinho cremoso castanho claro a marrom.
+Cor de marrom muito escuro a preto. Límpida, se não for opaca. Colarinho cremoso de castanho claro a marrom.
 
 ### Aroma
 
-Aroma suave de grãos torrados, às vezes com notas de café ou chocolate. Muitas vezes existe uma impressão de dulçor semelhante a creme. O frutado pode ser baixo a moderadamente alto. Diacetil baixo opcional. Aroma de lúpulo baixo floral ou terroso opcional.
+Aroma suave de grãos torrados, às vezes com notas de café ou chocolate. Muitas vezes existe uma impressão de dulçor semelhante a creme. O frutado pode ser de baixo a moderadamente alto. Diacetil baixo opcional. Aroma de lúpulo baixo floral ou terroso opcional.
 
 ### Sabor
 
@@ -22,7 +22,7 @@ Corpo médio-cheio a cheio e cremoso. Carbonatação baixa a moderada. O alto du
 
 ### Comentários
 
-A gravidade é baixa na Grã-Bretanha (às vezes mais baixas do que as estatísticas abaixo), mais altas nos produtos exportados e nos EUA. Existem variações, no nível de dulçor residual, na intensidade do caráter torrado, e o equilíbrio entre estas duas variáveis é passível de interpretação.
+A densidade é baixa na Grã-Bretanha (às vezes mais baixas do que as estatísticas abaixo), mais altas nos produtos exportados e nos EUA. Existem variações, no nível de dulçor residual, na intensidade do caráter torrado, e o equilíbrio entre estas duas variáveis é passível de interpretação.
 
 ### História
 

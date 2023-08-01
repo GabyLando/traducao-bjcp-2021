@@ -30,11 +30,11 @@ Stouts mais fortes fabricadas para o mercado de exportação hoje, mas com uma h
 
 ### Ingredientes
 
-Malte pale, maltes torrados escuros e grãos, historicamente também poderiam ter usado maltes brown e âmbar. Lúpulo principalmente para amargor, variedades tipicamente inglesas. Pode usar adjuntos e açúcar para aumentar a gravidade.
+Malte pale, maltes torrados escuros e grãos, historicamente também poderiam ter usado maltes brown e âmbar. Lúpulo principalmente para amargor, variedades tipicamente inglesas. Pode usar adjuntos e açúcar para aumentar a densidade.
 
 ### Comparação de estilos
 
-Semelhante em equilíbrio a uma Irish Extra Stout, mas com mais álcool. Não tão forte ou intensa quanto uma Imperial Stout. Sem o forte amargor e os lúpulos de adição tardia das American Stout. Gravidade semelhante à Tropical Stout, mas com final mais seco e mais amargo.
+Semelhante em equilíbrio a uma Irish Extra Stout, mas com mais álcool. Não tão forte ou intensa quanto uma Imperial Stout. Sem o forte amargor e os lúpulos de adição tardia das American Stout. densidade semelhante à Tropical Stout, mas com final mais seco e mais amargo.
 
 ### Estatísticas
 

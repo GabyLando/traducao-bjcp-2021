@@ -2,7 +2,7 @@
 
 ### Impressão geral
 
-Uma *session* ale britânica escura, de baixa gravidade e focada em malte, adequada para beber em quantidade. Refrescante, mas saborosa para sua força, com uma ampla gama de expressão de malte escuro ou açúcar escuro.
+Uma *session* ale britânica escura, de baixa densidade e focada em malte, adequada para beber em quantidade. Refrescante, mas saborosa para sua força, com uma ampla gama de expressão de malte escuro ou açúcar escuro.
 
 ### Aparência
 
@@ -18,7 +18,7 @@ Geralmente uma cerveja maltada, embora possa ter uma ampla variedade de sabores 
 
 ### Sensação na Boca
 
-Corpo de leve a médio. Carbonatação geralmente de baixa a média baixa. As versões tostadas podem ter uma leve adstringência. Versões mais doces podem parecer ter uma sensação na boca bastante cheia para a gravidade. Não deve ser sem carbonatação, aguada ou sem corpo.
+Corpo de leve a médio. Carbonatação geralmente de baixa a média baixa. As versões tostadas podem ter uma leve adstringência. Versões mais doces podem parecer ter uma sensação na boca bastante cheia para a densidade. Não deve ser sem carbonatação, aguada ou sem corpo.
 
 ### Comentários
 
@@ -34,7 +34,7 @@ Maltes base Pale britânicos (geralmente com bastante dextrina), maltes Crystal,
 
 ### Comparação de estilos
 
-Algumas versões podem parecer Porters inglesas modernas de baixa gravidade. Muito menos doce que a London Brown Ale.
+Algumas versões podem parecer Porters inglesas modernas de baixa densidade. Muito menos doce que a London Brown Ale.
 
 ### Estatísticas
 

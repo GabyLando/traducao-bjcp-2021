@@ -26,7 +26,7 @@ Na Inglaterra hoje, “ESB” é uma marca registrada da Fullers, e ninguém pen
 
 ### História
 
-Veja os comentários na introdução da categoria. Strong bitters podem ser vistas como uma versão de maior gravidade das best bitters (embora não necessariamente “mais premium”, já que as best bitters são tradicionalmente o melhor produto das cervejeiras). As British pale ales são geralmente consideradas uma cerveja premium, pálida e amarga com teor alcoólico tipo exportação que se aproxima grosseiramente das strong bitters, embora reformulada para o engarrafamento (incluindo maiores níveis de carbonatação). Enquanto a pale ale britânica moderna é considerada uma bitter engarrafada, historicamente os estilos eram diferentes.
+Veja os comentários na introdução da categoria. Strong bitters podem ser vistas como uma versão de maior densidade das best bitters (embora não necessariamente “mais premium”, já que as best bitters são tradicionalmente o melhor produto das cervejeiras). As British pale ales são geralmente consideradas uma cerveja premium, pálida e amarga com teor alcoólico tipo exportação que se aproxima grosseiramente das strong bitters, embora reformulada para o engarrafamento (incluindo maiores níveis de carbonatação). Enquanto a pale ale britânica moderna é considerada uma bitter engarrafada, historicamente os estilos eram diferentes.
 
 ### Ingredientes
 

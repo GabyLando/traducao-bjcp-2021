@@ -18,7 +18,7 @@ Profundo sabor doce de malte tipo caramelo ou *toffee* no paladar, perdurando at
 
 ### Sensação na Boca
 
-Corpo médio, mas a doçura residual pode dar uma impressão mais encorpada. Carbonatação de média baixa a média. Bastante cremosa e de textura suave, particularmente pela sua gravidade.
+Corpo médio, mas a doçura residual pode dar uma impressão mais encorpada. Carbonatação de média baixa a média. Bastante cremosa e de textura suave, particularmente pela sua densidade.
 
 ### Comentários
 

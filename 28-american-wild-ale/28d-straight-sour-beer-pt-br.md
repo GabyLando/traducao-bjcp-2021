@@ -18,7 +18,7 @@ Azedume lático limpo dominante e pode ser bastante forte. Algum sabor complemen
 
 ### Sensação na Boca
 
-Corpo leve. Carbonatação moderada a alta. Nunca quente, embora exemplos de gravidade inicial maior podem ter um caráter de aquecimento alcoólico. Acidez bem definida.
+Corpo leve. Carbonatação moderada a alta. Nunca quente, embora exemplos de densidade inicial maior podem ter um caráter de aquecimento alcoólico. Acidez bem definida.
 
 ### Comentários
 
@@ -30,7 +30,7 @@ O cientista cervejeiro alemão, Otto Francke, desenvolveu o que se tornou conhec
 
 ### Ingredientes
 
-A maior parte, ou toda combinação de grãos, é de maltes Pale, Pilsen ou maltes de trigo em qualquer combinação. Maltes levemente tostados podem ser utilizados para maior profundidade maltada. Maltes como Carapils podem ser utilizados para o corpo. Açúcar claro pode ser utilizado para aumentar a gravidade inicial sem aumentar o corpo. Sem lactose ou maltodextrina. Pode ser produzida por meio de kettle souring, culturas de cofermentação (levedura ou bactéria produtora de ácido lático), ou utilizando levedura especial para produção de ácido lático. Sem Brett.
+A maior parte, ou toda combinação de grãos, é de maltes Pale, Pilsen ou maltes de trigo em qualquer combinação. Maltes levemente tostados podem ser utilizados para maior profundidade maltada. Maltes como Carapils podem ser utilizados para o corpo. Açúcar claro pode ser utilizado para aumentar a densidade inicial sem aumentar o corpo. Sem lactose ou maltodextrina. Pode ser produzida por meio de kettle souring, culturas de cofermentação (levedura ou bactéria produtora de ácido lático), ou utilizando levedura especial para produção de ácido lático. Sem Brett.
 
 ### Comparação de estilos
 

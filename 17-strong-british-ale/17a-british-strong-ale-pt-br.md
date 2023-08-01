@@ -34,7 +34,7 @@ Os grãos variam, muitas vezes baseados em maltes pale com caramelo e maltes esp
 
 ### Comparação de estilos
 
-Significativa sobreposição de gravidade com Old Ale, mas sem um caráter envelhecido. Uma ampla gama de interpretações é possível. Não deve ser tão rico ou forte quanto uma English Barley Wine. Mais potente do que uma Strong Bitter, British Brown Ale e English Porter fortes do dia-a-dia. Mais malte especial ou caráter de açúcar do que American Strong Ale.
+Significativa sobreposição de densidade com Old Ale, mas sem um caráter envelhecido. Uma ampla gama de interpretações é possível. Não deve ser tão rico ou forte quanto uma English Barley Wine. Mais potente do que uma Strong Bitter, British Brown Ale e English Porter fortes do dia-a-dia. Mais malte especial ou caráter de açúcar do que American Strong Ale.
 
 ### Estatísticas
 

@@ -2,7 +2,7 @@
 
 ### Impressão geral
 
-Baixa gravidade, álcool e carbonatação fazem desta uma cerveja session fácil de beber. O perfil do malte pode variar em sabor e intensidade, mas nunca deve sobrepor a impressão geral de amargor. A facilidade em beber é um componente crítico do estilo.
+Baixa densidade, álcool e carbonatação fazem desta uma cerveja session fácil de beber. O perfil do malte pode variar em sabor e intensidade, mas nunca deve sobrepor a impressão geral de amargor. A facilidade em beber é um componente crítico do estilo.
 
 ### Aparência
 
