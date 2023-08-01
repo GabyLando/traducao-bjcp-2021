@@ -54,4 +54,4 @@ Cream Ale (2015)
 
 ### Atributos do Estilos
 
-Qualquer-fermentação, equilibrada, América do Norte, família-pale-ale, Cor pálida, Intensidade padrão, estilo tradicional
+any-fermentation, balanced, north-america, pale-ale-family, pale-color, standard-strength, traditional-style
