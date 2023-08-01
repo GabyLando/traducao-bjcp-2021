@@ -14,7 +14,7 @@ Notas de malte de médio-baixo a baixo, pode ser percebido como remetendo à cer
 
 ### Sabor
 
-Amargor de lúpulo de baixo a médio-baixo. Dulçor de malte de baixo a médio-baixo, variando de acordo com a densidade original e atenuação. O perfil de malte é geralmente neutro, que pode ser percebido como grão ou biscoito de água-e-sal. Geralmente bem atenuada. Equilibrada no palato, com lúpulo suficiente para dar suporte ao malte. Sabor de milho de baixo à moderado é normalmente encontrado, mas DMS em baixa intensidade é opcional. O final pode variar do seco, leve e bem definido, ao levemente adocicado. Perfil de fermentação limpo, sendo ésteres frutados de baixa intensidade opcionais. Sabor de lúpulo de baixo a médio-baixo de qualquer variedade, mas tipicamente floral, condimentado ou herbal. Sutil.
+Amargor de lúpulo de baixo a médio-baixo. Dulçor de malte de baixo a médio-baixo, variando de acordo com a densidade original e atenuação. O perfil de malte é geralmente neutro, que pode ser percebido como cereal ou biscoito de água-e-sal. Geralmente bem atenuada. Equilibrada no palato, com lúpulo suficiente para dar suporte ao malte. Sabor de milho de baixo à moderado é normalmente encontrado, mas DMS em baixa intensidade é opcional. O final pode variar do seco, leve e bem definido, ao levemente adocicado. Perfil de fermentação limpo, sendo ésteres frutados de baixa intensidade opcionais. Sabor de lúpulo de baixo a médio-baixo de qualquer variedade, mas tipicamente floral, condimentado ou herbal. Sutil.
 
 ### Sensação na Boca
 
