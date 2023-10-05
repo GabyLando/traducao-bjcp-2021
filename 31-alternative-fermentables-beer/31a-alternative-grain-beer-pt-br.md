@@ -1,6 +1,6 @@
 ## 31A. Alternative Grain Beer
 
-Uma Alternative Grain Beer é uma cerveja de estilo padrão (sendo Estilo Clássico, ou não) feita com o uso exclusivo ou com a adição de cereais cervejeiros ou não-usuais (por exemplo, centeio, aveia, trigo sarraceno, espelta, painço, sorgo, arroz). Cervejas sem glúten feitas com ingredientes que não possuam sem glúten, podem ser inscritas aqui; cervejas sem glúten que são feitas por processo de remoção da substância devem ser inscritas em suas respectivas categorias de estilo base.
+Uma Alternative Grain Beer é uma cerveja, de Estilo Clássico ou não, que contém cereais não-usuais (por exemplo, centeio, aveia, trigo sarraceno, espelta, painço, sorgo, arroz), que podem ser utilizados de forma exclusiva ou em conjunto com cereais comuns ao processo cervejeiro. Cervejas sem glúten feitas com ingredientes que não contenham glúten podem ser inscritas aqui, enquanto cervejas sem glúten que são feitas por processo de remoção do glúten devem ser inscritas em suas respectivas categorias de estilo base.
 
 ### Impressão Geral
 
